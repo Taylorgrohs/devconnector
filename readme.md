@@ -1,6 +1,5 @@
 # DevConnector
 
-Taylor is awesome :-) 
-
+Mern stack practice
 
 
